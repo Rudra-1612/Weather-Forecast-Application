@@ -68,26 +68,6 @@ UI Rendering
 
 ---
 
-## Installation
-
-### Clone Repository
-
-git clone https://github.com/your-username/weather-forecast-app.git
-
-### Install Dependencies
-
-npm install
-
-### Start Development Server
-
-npm run dev
-
-### Build Application
-
-npm run build
-
----
-
 ## Future Enhancements
 
 - 7-Day Weather Forecast
